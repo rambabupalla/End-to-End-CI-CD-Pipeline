@@ -63,6 +63,7 @@ jenkins-cicd-springboot-k8s/
 ├── kubedeploy.yaml
 ├── README.md
 |-- Screenshots
+|-- commandsused.md
 
 ---
 
