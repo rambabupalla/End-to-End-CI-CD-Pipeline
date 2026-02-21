@@ -1,7 +1,7 @@
 # 🚀 End-to-End CI/CD Pipeline using Jenkins, Docker & Kubernetes
 
 ## 📌 Project Overview
-This project demonstrates a complete CI/CD pipeline for a Spring Boot application.
+This project demonstrates a complete CI/CD pipeline for Static web application.
 The pipeline automates build, containerization, image push, and Kubernetes deployment.
 
 ---
